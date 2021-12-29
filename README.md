@@ -1,0 +1,2 @@
+# dynamodb_migrate_test
+dynamodb_migrate_test
